@@ -1,7 +1,13 @@
-# Kazagumo
-#### A [Shoukaku](https://github.com/Deivu/Shoukaku) wrapper with built in queue system 
+# Kazagumo-Bun
 
-![AppVeyor](https://img.shields.io/appveyor/build/Takiyo0/kazagumo) ![Downloads](https://img.shields.io/npm/dm/kazagumo) ![npm](https://img.shields.io/npm/v/kazagumo) ![GitHub contributors](https://img.shields.io/github/contributors/Takiyo0/Kazagumo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Takiyo0/Kazagumo) ![GitHub last commit](https://img.shields.io/github/last-commit/Takiyo0/Kazagumo) ![NPM](https://img.shields.io/npm/l/kazagumo)  
+[![Sponsor](https://img.shields.io/github/sponsors/LuigiColantuono?style=social)](https://github.com/sponsors/LuigiColantuono)
+[![PayPal](https://img.shields.io/badge/💖-Support-ff69b4)](https://paypal.me/l0g4n7)
+[![npm](https://img.shields.io/npm/v/Kazagumo-Bun?style=flat-square)](https://www.npmjs.com/package/shoukaku-bun)
+![Github Stars](https://img.shields.io/github/stars/LuigiColantuono/Kazagumo-Bun?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/LuigiColantuono/Kazagumo-Bun?style=flat-square)
+![NPM](https://img.shields.io/npm/l/Kazagumo-Bun?style=flat-square)
+
+#### A [Shoukaku-Bun](https://github.com/LuigiColantuono/Shoukaku-Bun) wrapper with built in queue system 
 
 ![Kazagumo](https://i.imgur.com/jfVSvHj.png)
 > Kazagumo © Azur Lane
@@ -24,13 +30,9 @@ Please read the docs first before asking methods
 
 ## Installation
 
-> npm i kazagumo
-
-## Metadata
-
-> version: 3.4.0  
-> pre-release: false  
-> Last build: 11-10-2025 21.20 PM
+```bash
+bun add kazagumo-bun 
+```
 
 ## Environment
 The new lavalink system that separate YouTube plugins made configuration a bit harder. I will list all working environment that's known working.
@@ -121,7 +123,8 @@ Note:
 ## Support
 ⚠️ Please read the docs first before asking question ⚠️ 
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
-> Shoukaku support server: https://discord.gg/FVqbtGu (#development)   
+> Shoukaku support server: https://discord.gg/FVqbtGu (#development)
+> Brucius support server: https://discord.gg/XqJw52d35R 
 > Report if you found a bug here https://github.com/Takiyo0/Kazagumo/issues/new/choose
 
 ## Enable playerMoved event
