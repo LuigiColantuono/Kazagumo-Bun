@@ -52,7 +52,6 @@ Please read the docs first before asking methods
 > [Shoukaku](https://github.com/Deivu/Shoukaku) by [Deivu](https://github.com/Deivu);  https://deivu.github.io/Shoukaku   
 
 ## Support
-⚠️ Please read the docs first before asking question ⚠️ 
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
 > Shoukaku support server: https://discord.gg/FVqbtGu (#development)           
 > Brucius support server: https://discord.gg/XqJw52d35R
