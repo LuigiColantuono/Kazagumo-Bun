@@ -4,8 +4,6 @@
 [![PayPal](https://img.shields.io/badge/💖-Support-ff69b4)](https://paypal.me/l0g4n7)
 [![npm](https://img.shields.io/npm/v/kazagumo-bun?style=flat-square)](https://www.npmjs.com/package/kazagumo-bun)
 ![Github Stars](https://img.shields.io/github/stars/LuigiColantuono/Kazagumo-Bun?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues-raw/LuigiColantuono/Kazagumo-Bun?style=flat-square)
-![NPM](https://img.shields.io/npm/l/Kazagumo-Bun?style=flat-square)
 
 #### A [Shoukaku-Bun](https://github.com/LuigiColantuono/Shoukaku-Bun) wrapper with built in queue system 
 
@@ -124,7 +122,9 @@ Note:
 ⚠️ Please read the docs first before asking question ⚠️ 
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
 > Shoukaku support server: https://discord.gg/FVqbtGu (#development)
-> Brucius support server: https://discord.gg/XqJw52d35R 
+> 
+> Brucius support server: https://discord.gg/XqJw52d35R
+> 
 > Report if you found a bug here https://github.com/Takiyo0/Kazagumo/issues/new/choose
 
 ## Enable playerMoved event
