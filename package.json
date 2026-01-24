@@ -1,6 +1,6 @@
 {
   "name": "kazagumo-bun",
-  "version": "3.4.0-c",
+  "version": "3.4.0-d",
   "description": "Bun-native high-performance Kazagumo fork. Node legacy purged.",
   "main": "src/Index.ts",
   "types": "src/Index.ts",
@@ -33,7 +33,7 @@
     "url": "https://paypal.me/l0g4n7"
   },
   "dependencies": {
-    "shoukaku": "^4.2.0-b"
+    "shoukaku-bun": "latest"
   },
   "devDependencies": {
     "@types/bun": "latest",
