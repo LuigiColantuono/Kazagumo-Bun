@@ -2,7 +2,7 @@
 
 [![Sponsor](https://img.shields.io/github/sponsors/LuigiColantuono?style=social)](https://github.com/sponsors/LuigiColantuono)
 [![PayPal](https://img.shields.io/badge/💖-Support-ff69b4)](https://paypal.me/l0g4n7)
-[![npm](https://img.shields.io/npm/v/Kazagumo-Bun?style=flat-square)](https://www.npmjs.com/package/shoukaku-bun)
+[![npm](https://img.shields.io/npm/v/kazagumo-bun?style=flat-square)](https://www.npmjs.com/package/kazagumo-bun)
 ![Github Stars](https://img.shields.io/github/stars/LuigiColantuono/Kazagumo-Bun?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues-raw/LuigiColantuono/Kazagumo-Bun?style=flat-square)
 ![NPM](https://img.shields.io/npm/l/Kazagumo-Bun?style=flat-square)
