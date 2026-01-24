@@ -53,7 +53,7 @@ Please read the docs first before asking methods
 
 ## Performance
 
-![B R U C I U S 🎵](https://i.imgur.com/mb6zCvC.png)
+![B R U C I U S 🎵](https://i.imgur.com/zZsPzm6.png))
 
 ## Support
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
