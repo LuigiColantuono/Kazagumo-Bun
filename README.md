@@ -1,7 +1,13 @@
 # Kazagumo-Bun
-#### A [Shoukaku-Bun](https://github.com/LuigiColantuono/Shoukaku-Bun) wrapper with built in queue system 
 
-![AppVeyor](https://img.shields.io/appveyor/build/Takiyo0/kazagumo) ![Downloads](https://img.shields.io/npm/dm/kazagumo) ![npm](https://img.shields.io/npm/v/kazagumo) ![GitHub contributors](https://img.shields.io/github/contributors/Takiyo0/Kazagumo) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Takiyo0/Kazagumo) ![GitHub last commit](https://img.shields.io/github/last-commit/Takiyo0/Kazagumo) ![NPM](https://img.shields.io/npm/l/kazagumo)  
+[![Sponsor](https://img.shields.io/github/sponsors/LuigiColantuono?style=social)](https://github.com/sponsors/LuigiColantuono)
+[![PayPal](https://img.shields.io/badge/💖-Support-ff69b4)](https://paypal.me/l0g4n7)
+[![npm](https://img.shields.io/npm/v/Kazagumo-Bun?style=flat-square)](https://www.npmjs.com/package/shoukaku-bun)
+![Github Stars](https://img.shields.io/github/stars/LuigiColantuono/Kazagumo-Bun?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues-raw/LuigiColantuono/Kazagumo-Bun?style=flat-square)
+![NPM](https://img.shields.io/npm/l/Kazagumo-Bun?style=flat-square)
+
+#### A [Shoukaku-Bun](https://github.com/LuigiColantuono/Shoukaku-Bun) wrapper with built in queue system 
 
 ![Kazagumo](https://i.imgur.com/jfVSvHj.png)
 > Kazagumo © Azur Lane
