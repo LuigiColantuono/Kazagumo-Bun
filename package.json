@@ -12,10 +12,28 @@
     "test": "bun test",
     "lint": "eslint ."
   },
-  "author": "Takiyo & Luigi Colantuono",
+  "author": "Takiyo",
+  "contributors": [
+    {
+      "name": "Luigi Colantuono",
+      "url": "https://github.com/LuigiColantuono"
+    }
+  ],
   "license": "ISC",
+  "homepage": "https://github.com/LuigiColantuono/Kazagumo-Bun#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiColantuono/Kazagumo-Bun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuigiColantuono/Kazagumo-Bun/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://paypal.me/l0g4n7"
+  },
   "dependencies": {
-    "shoukaku": "github:LuigiColantuono/shoukaku-bun"
+    "shoukaku": "^4.2.0-b"
   },
   "devDependencies": {
     "@types/bun": "latest",
