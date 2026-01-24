@@ -24,13 +24,9 @@ Please read the docs first before asking methods
 
 ## Installation
 
-> bun add github:LuigiColantuono/kazagumo-bun 
-
-## Metadata
-
-> version: 3.4.0  
-> pre-release: false  
-> Last build: 11-10-2025 21.20 PM
+```bash
+bun add github:LuigiColantuono/kazagumo-bun 
+```
 
 ## Environment
 The new lavalink system that separate YouTube plugins made configuration a bit harder. I will list all working environment that's known working.
@@ -121,7 +117,8 @@ Note:
 ## Support
 ⚠️ Please read the docs first before asking question ⚠️ 
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
-> Shoukaku support server: https://discord.gg/FVqbtGu (#development)   
+> Shoukaku support server: https://discord.gg/FVqbtGu (#development)
+> Brucius support server: https://discord.gg/XqJw52d35R 
 > Report if you found a bug here https://github.com/Takiyo0/Kazagumo/issues/new/choose
 
 ## Enable playerMoved event
