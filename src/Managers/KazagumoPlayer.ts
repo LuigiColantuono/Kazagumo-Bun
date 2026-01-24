@@ -8,7 +8,7 @@ import {
   TrackExceptionEvent,
   TrackStuckEvent,
   WebSocketClosedEvent,
-} from 'shoukaku';
+} from 'shoukaku-bun';
 import {
   Events,
   KazagumoError,

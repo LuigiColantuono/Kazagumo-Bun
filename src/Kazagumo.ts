@@ -27,7 +27,7 @@ import {
   VoiceChannelOptions,
   WebSocketClosedEvent,
   Constants,
-} from 'shoukaku';
+} from 'shoukaku-bun';
 const { State, VoiceState } = Constants;
 type VoiceStateType = (typeof VoiceState)[keyof typeof VoiceState];
 

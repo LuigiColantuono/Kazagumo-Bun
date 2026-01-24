@@ -1,4 +1,4 @@
-import { Track } from 'shoukaku';
+import { Track } from 'shoukaku-bun';
 import { KazagumoTrack } from '../Managers/Supports/KazagumoTrack';
 
 export class KazagumoUtils {

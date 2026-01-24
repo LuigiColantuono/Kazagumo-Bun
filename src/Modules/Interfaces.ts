@@ -2,7 +2,7 @@ import { Kazagumo } from '../Kazagumo';
 import { KazagumoPlayer, KazagumoQueue } from '../Index';
 import { KazagumoTrack } from '../Managers/Supports/KazagumoTrack';
 import { Constructor } from './Utils';
-import { Track } from 'shoukaku';
+import { Track } from 'shoukaku-bun';
 
 export interface KazagumoOptions {
   /** Default search engine if no engine was provided. Default to youtube. If defaultSource is provided, this will be ignored */
