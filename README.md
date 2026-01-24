@@ -51,6 +51,10 @@ Please read the docs first before asking methods
 > Kazagumo; https://takiyo0.github.io/Kazagumo    
 > [Shoukaku](https://github.com/Deivu/Shoukaku) by [Deivu](https://github.com/Deivu);  https://deivu.github.io/Shoukaku   
 
+## Performance
+
+![B R U C I U S 🎵](https://i.imgur.com/mb6zCvC.png)
+
 ## Support
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
 > Shoukaku support server: https://discord.gg/FVqbtGu (#development)           
