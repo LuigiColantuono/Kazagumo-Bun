@@ -26,10 +26,30 @@ Please read the docs first before asking methods
 > Kazagumo; https://takiyo0.github.io/Kazagumo    
 > [Shoukaku](https://github.com/Deivu/Shoukaku) by [Deivu](https://github.com/Deivu);  https://deivu.github.io/Shoukaku   
 
+## 📦 Bundle Size Comparison
+
+| Package | Size | Dependencies | Total Install |
+|---------|------|--------------|---------------|
+| kazagumo | 85 kB | ws | **~751 kB** |
+| kazagumo-bun | 67.3 kB | **NONE** | **~140 kB** |
+
+**~81% smaller install size!** 🚀
+
+## 🎵 The Story
+
+Built out of frustration with constant WebSocket upgrade warnings that were 
+making my Discord music bot laggy. After migrating to Bun, I realized the 
+entire Shoukaku stack could be rewritten to be faster and lighter.
+
+**Result?** Zero warnings. Noticeably faster. Way more fun to work with.
+
+If this solved your problems too, [consider supporting the project](https://paypal.me/l0g4n7)! 
+Even a coffee helps keep the motivation high! ☕
+
 ## Installation
 
 ```bash
-bun add kazagumo-bun 
+bun add kazagumo-bun
 ```
 
 ## Environment
