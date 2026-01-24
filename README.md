@@ -31,7 +31,7 @@ Please read the docs first before asking methods
 ## Installation
 
 ```bash
-bun add github:LuigiColantuono/kazagumo-bun 
+bun add kazagumo-bun 
 ```
 
 ## Environment
