@@ -52,8 +52,7 @@ Please read the docs first before asking methods
 > [Shoukaku](https://github.com/Deivu/Shoukaku) by [Deivu](https://github.com/Deivu);  https://deivu.github.io/Shoukaku   
 
 ## Performance
-
-![B R U C I U S 🎵](https://i.imgur.com/zZsPzm6.png)
+<img width="380" height="" alt="B R U C I U S 🎵" src="https://i.imgur.com/zZsPzm6.png" />
 
 ## Support
 > Kazagumo support server: https://discord.gg/nPPW2Gzqg2 (anywhere lmao)   
