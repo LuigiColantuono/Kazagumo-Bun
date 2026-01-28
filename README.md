@@ -1,6 +1,6 @@
 # Kazagumo-Bun
 
-<p align="center"><a href="https://github.com/sponsors/LuigiColantuono"><img src="https://img.shields.io/github/sponsors/LuigiColantuono?style=social"></a> <a href="https://paypal.me/l0g4n7"><img src="https://img.shields.io/badge/💖-Support-ff69b4"></a> <img src="https://img.shields.io/npm/v/kazagumo-bun"> <img src="https://img.shields.io/npm/dm/kazagumo-bun?label=downloads"> <img src="https://img.shields.io/npm/l/buncord-cross-hosting"> <img src="https://img.shields.io/github/repo-size/LuigiColantuono/Kazagumo-Bun"> <a href="https://github.com/LuigiColantuono/Kazagumo-Bun"><img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun"></a></p>
+<p align="center"><a href="https://github.com/sponsors/LuigiColantuono"><img src="https://img.shields.io/github/sponsors/LuigiColantuono?style=social"></a> <a href="https://paypal.me/l0g4n7"><img src="https://img.shields.io/badge/💖-Support-ff69b4"></a> <img src="https://img.shields.io/npm/v/kazagumo-bun"> <img src="https://img.shields.io/npm/dm/kazagumo-bun?label=downloads"> <img src="https://img.shields.io/npm/l/kazagumo-bun"> <img src="https://img.shields.io/github/repo-size/LuigiColantuono/Kazagumo-Bun"> <a href="https://github.com/LuigiColantuono/Kazagumo-Bun"><img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun"></a></p>
 
 #### A [Shoukaku-Bun](https://github.com/LuigiColantuono/Shoukaku-Bun) wrapper with built in queue system 
 
@@ -64,5 +64,5 @@ Please read the docs first before asking methods
 > - Deivu as the owner of Shoukaku   
 >   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/Deivu    
 >   &nbsp;
-> - Takiyo as the owner of this project   
->   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/Takiyo0
+> - Luigi Colantuono as the owner of this project
+>   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/LuigiColantuono
