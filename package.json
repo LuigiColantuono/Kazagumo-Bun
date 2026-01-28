@@ -1,6 +1,6 @@
 {
   "name": "kazagumo-bun",
-  "version": "3.4.0-e",
+  "version": "3.4.1",
   "description": "Bun-native high-performance Kazagumo fork. Node legacy purged.",
   "main": "src/Index.ts",
   "types": "src/Index.ts",
