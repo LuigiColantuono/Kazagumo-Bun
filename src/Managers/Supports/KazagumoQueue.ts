@@ -1,6 +1,6 @@
-import { KazagumoTrack } from './KazagumoTrack';
-import { Events, KazagumoError } from '../../Modules/Interfaces';
-import { KazagumoPlayer } from '../KazagumoPlayer';
+import type { KazagumoTrack } from './KazagumoTrack.ts';
+import { Events, KazagumoError } from '../../Modules/Interfaces.ts';
+import type { KazagumoPlayer } from '../KazagumoPlayer.ts';
 
 export class KazagumoQueue extends Array<KazagumoTrack> {
   constructor(private readonly kazagumoPlayer: KazagumoPlayer) {

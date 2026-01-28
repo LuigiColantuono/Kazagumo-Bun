@@ -1,15 +1,16 @@
-import { Kazagumo } from '../../Kazagumo';
+import type { Kazagumo } from '../../Kazagumo.ts';
+import type {
+  RawTrack,
+  ResolveOptions} from '../../Modules/Interfaces';
 import {
   escapeRegExp,
   Events,
   KazagumoError,
-  RawTrack,
-  ResolveOptions,
   SourceIDs,
   SupportedSources,
 } from '../../Modules/Interfaces';
-import { Track } from 'shoukaku-bun';
-import { KazagumoPlayer } from '../KazagumoPlayer';
+import type { Track } from 'shoukaku-bun';
+import type { KazagumoPlayer } from '../KazagumoPlayer.ts';
 
 export class KazagumoTrack {
   /**

@@ -1,39 +1,41 @@
-import { EventEmitter } from './Modules/EventEmitter';
-import {
+import { EventEmitter } from './Modules/EventEmitter.ts';
+import type {
   CreatePlayerOptions,
-  Events,
-  KazagumoError,
   KazagumoOptions as KazagumoOptionsOwO,
   KazagumoSearchOptions,
   KazagumoSearchResult,
   PlayerMovedChannels,
   PlayerMovedState,
-  SearchResultTypes,
+  SearchResultTypes} from './Modules/Interfaces';
+import {
+  Events,
+  KazagumoError,
   SourceIDs,
 } from './Modules/Interfaces';
-import {
-  Connection,
+import type {
   Connector,
-  LoadType,
   Node,
   NodeOption,
-  Player,
   PlayerUpdate,
-  Shoukaku,
   ShoukakuOptions,
   Track,
   TrackExceptionEvent,
   TrackStuckEvent,
   VoiceChannelOptions,
-  WebSocketClosedEvent,
+  WebSocketClosedEvent} from 'shoukaku-bun';
+import {
+  Connection,
+  LoadType,
+  Player,
+  Shoukaku,
   Constants,
 } from 'shoukaku-bun';
 const { State, VoiceState } = Constants;
 type VoiceStateType = (typeof VoiceState)[keyof typeof VoiceState];
 
-import { KazagumoPlayer } from './Managers/KazagumoPlayer';
-import { KazagumoTrack } from './Managers/Supports/KazagumoTrack';
-import { KazagumoQueue } from './Managers/Supports/KazagumoQueue';
+import { KazagumoPlayer } from './Managers/KazagumoPlayer.ts';
+import { KazagumoTrack } from './Managers/Supports/KazagumoTrack.ts';
+import type { KazagumoQueue } from './Managers/Supports/KazagumoQueue.ts';
 
 export interface KazagumoEvents {
   /**

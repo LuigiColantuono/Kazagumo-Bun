@@ -1,5 +1,5 @@
-import { Track } from 'shoukaku-bun';
-import { KazagumoTrack } from '../Managers/Supports/KazagumoTrack';
+import type { Track } from 'shoukaku-bun';
+import type { KazagumoTrack } from '../Managers/Supports/KazagumoTrack.ts';
 
 export class KazagumoUtils {
   static convertKazagumoTrackToTrack(track: KazagumoTrack | Track): Track {

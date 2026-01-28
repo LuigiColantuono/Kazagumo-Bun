@@ -1,6 +1,6 @@
-import { Kazagumo } from '../Kazagumo';
-import { KazagumoQueue } from './Supports/KazagumoQueue';
-import {
+import type { Kazagumo } from '../Kazagumo.ts';
+import { KazagumoQueue } from './Supports/KazagumoQueue.ts';
+import type {
   FilterOptions,
   Node,
   Player,
@@ -9,16 +9,17 @@ import {
   TrackStuckEvent,
   WebSocketClosedEvent,
 } from 'shoukaku-bun';
-import {
-  Events,
-  KazagumoError,
+import type {
   KazagumoPlayerOptions,
   KazagumoSearchOptions,
   KazagumoSearchResult,
-  PlayerState,
-  PlayOptions,
+  PlayOptions} from '../Modules/Interfaces';
+import {
+  Events,
+  KazagumoError,
+  PlayerState
 } from '../Modules/Interfaces';
-import { KazagumoTrack } from './Supports/KazagumoTrack';
+import { KazagumoTrack } from './Supports/KazagumoTrack.ts';
 
 export class KazagumoPlayer {
   /**
@@ -168,7 +169,7 @@ export class KazagumoPlayer {
     this.shoukaku.on('update', (data: PlayerUpdate) => this.emit(Events.PlayerUpdate, this, data));
     this.shoukaku.on('stuck', (data: TrackStuckEvent) => this.emit(Events.PlayerStuck, this, data));
     this.shoukaku.on('resumed', () => this.emit(Events.PlayerResumed, this));
-    // @ts-ignore
+    // @ts-expect-error: Shoukaku Events doesn't have QueueUpdate but it's emitted manually
     this.shoukaku.on(Events.QueueUpdate, (referencePlayer: KazagumoPlayer, queue: KazagumoQueue) =>
       this.kazagumo.emit(Events.QueueUpdate, referencePlayer, queue),
     );
@@ -319,7 +320,8 @@ export class KazagumoPlayer {
       this.emit(Events.PlayerResolveError, this, current, errorMessage);
       this.emit(Events.Debug, `Player ${this.guildId} resolve error: ${errorMessage}`);
       this.queue.current = null;
-      this.queue.size ? await this.play() : this.emit(Events.PlayerEmpty, this);
+      if (this.queue.size) await this.play();
+      else this.emit(Events.PlayerEmpty, this);
       return this;
     }
 

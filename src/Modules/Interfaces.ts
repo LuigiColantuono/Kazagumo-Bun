@@ -1,8 +1,8 @@
-import { Kazagumo } from '../Kazagumo';
-import { KazagumoPlayer, KazagumoQueue } from '../Index';
-import { KazagumoTrack } from '../Managers/Supports/KazagumoTrack';
-import { Constructor } from './Utils';
-import { Track } from 'shoukaku-bun';
+import type { Kazagumo } from '../Kazagumo.ts';
+import type { KazagumoPlayer, KazagumoQueue } from '../Index.ts';
+import type { KazagumoTrack } from '../Managers/Supports/KazagumoTrack.ts';
+import type { Constructor } from './Utils.ts';
+import type { Track } from 'shoukaku-bun';
 
 export interface KazagumoOptions {
   /** Default search engine if no engine was provided. Default to youtube. If defaultSource is provided, this will be ignored */
@@ -182,11 +182,11 @@ export enum PlayerState {
 }
 
 export class KazagumoPlugin {
-  public load(kazagumo: Kazagumo): void {
+  public load(_kazagumo: Kazagumo): void {
     throw new KazagumoError(1, 'Plugin must implement load()');
   }
 
-  public unload(kazagumo: Kazagumo): void {
+  public unload(_kazagumo: Kazagumo): void {
     throw new KazagumoError(1, 'Plugin must implement unload()');
   }
 }

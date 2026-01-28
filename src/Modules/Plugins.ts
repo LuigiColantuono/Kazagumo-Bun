@@ -1,4 +1,4 @@
-import { KazagumoPlugin as PlayerMoved } from '../Plugins/PlayerMoved';
+import { KazagumoPlugin as PlayerMoved } from '../Plugins/PlayerMoved.ts';
 
 export default {
   PlayerMoved,

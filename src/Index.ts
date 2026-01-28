@@ -1,8 +1,8 @@
 
-import { KazagumoTrack } from './Managers/Supports/KazagumoTrack';
-import { KazagumoQueue } from './Managers/Supports/KazagumoQueue';
-import { KazagumoPlayer } from './Managers/KazagumoPlayer';
-import Plugins from './Modules/Plugins';
+import { KazagumoTrack } from './Managers/Supports/KazagumoTrack.ts';
+import { KazagumoQueue } from './Managers/Supports/KazagumoQueue.ts';
+import { KazagumoPlayer } from './Managers/KazagumoPlayer.ts';
+import Plugins from './Modules/Plugins.ts';
 // import KazagumoPlayer from "./Managers/KazagumoPlayer";
 // import { KazagumoOptions } from "./Modules/Interfaces";
 

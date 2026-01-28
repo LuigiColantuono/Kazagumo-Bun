@@ -1,5 +1,6 @@
-import { Kazagumo, Events } from '../Index';
-import { KazagumoPlugin as Plugin } from '../Modules/Interfaces';
+import type { Kazagumo} from '../Index.ts';
+import { Events } from '../Index.ts';
+import { KazagumoPlugin as Plugin } from '../Modules/Interfaces.ts';
 
 export class KazagumoPlugin extends Plugin {
   /**
