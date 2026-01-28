@@ -1,13 +1,13 @@
 # Kazagumo-Bun
 
-[![Sponsor](https://img.shields.io/github/sponsors/LuigiColantuono?style=social)](https://github.com/sponsors/LuigiColantuono)
-[![PayPal](https://img.shields.io/badge/💖-Support-ff69b4)](https://paypal.me/l0g4n7)
-[![npm](https://img.shields.io/npm/v/kazagumo-bun?style=flat-square)](https://www.npmjs.com/package/kazagumo-bun)
-![Github Stars](https://img.shields.io/github/stars/LuigiColantuono/Kazagumo-Bun?style=flat-square)
+<p align="center"><a href="https://github.com/sponsors/LuigiColantuono"><img src="https://img.shields.io/github/sponsors/LuigiColantuono?style=social"></a> <a href="https://paypal.me/l0g4n7"><img src="https://img.shields.io/badge/💖-Support-ff69b4"></a> <img src="https://img.shields.io/npm/v/kazagumo-bun"> <img src="https://img.shields.io/npm/dm/kazagumo-bun?label=downloads"> <img src="https://img.shields.io/npm/l/buncord-cross-hosting"> <img src="https://img.shields.io/github/repo-size/LuigiColantuono/Kazagumo-Bun"> <a href="https://github.com/LuigiColantuono/Kazagumo-Bun"><img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun"></a></p>
 
 #### A [Shoukaku-Bun](https://github.com/LuigiColantuono/Shoukaku-Bun) wrapper with built in queue system 
 
-![Kazagumo](https://i.imgur.com/jfVSvHj.png)
+<p align="center">
+<img width="" height="450" alt="Kazagumo © Azur Lane" src="https://i.imgur.com/jfVSvHj.png" />
+<p>
+  
 > Kazagumo © Azur Lane
 
 ## Features:
@@ -17,7 +17,7 @@
 ✓ Plugin system  
 ✓ Uses shoukaku v4 + capable of Lavalink v4   
 ✓ Stable & Updated: Based on the rock-solid Shoukaku v4.2.0 logic.  
-✓ Bun-Native
+✓ Bun-Native           
 ✓ High-Performance 
 
 ## 📦 Bundle Size Comparison
