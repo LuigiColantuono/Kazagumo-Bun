@@ -27,7 +27,7 @@
 | Kazagumo | 85 kB | **WS** | **~751 kB** |
 | Kazagumo-Bun | 67.3 kB | **NONE** | **~140 kB** |
 
-**~81% smaller install size!** 🚀
+**~81% smaller install size!**
 
 ## 🎵 The Story
 
